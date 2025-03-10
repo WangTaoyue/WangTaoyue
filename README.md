@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hey There! 
 
-<!--
-**WangTaoyue/WangTaoyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Taoyue Wang, a computer science student
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+
+![Skills Languages](https://skillicons.dev/icons?i=c,cpp,python,js)
+
+### Frontend development
+
+![Skills Tools](https://skillicons.dev/icons?i=html,css,vue,vite,nodejs,npm)
+
+### Tools
+
+![Skills Frameworks](https://skillicons.dev/icons?i=vscode,git,github,linux)
+
+### Frameworks
+
+![Skills Frameworks](https://skillicons.dev/icons?i=qt)
+
+### Other
+![Skills Frameworks](https://skillicons.dev/icons?i=blender)
+
+## Contact
+- Email: connor5323@outlook.com
